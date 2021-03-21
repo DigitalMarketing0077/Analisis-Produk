@@ -1,5 +1,5 @@
 # Analisis-Produk
 Mempelajari langkah-langkah membuat produk kreatif
-Mencari idea produk
-Membuat sketsa awal
-Membuat garis, bagian, ukuran, skala
+Teknik-Membuat-Sketsa
+Menentukan produk, membuat skala, mengetahui bagian dan ukuran produk
+Membuat arsir, menebalkan obyek gambar
